@@ -1,7 +1,7 @@
 body {
     font: 14px "centry gothic", futura, sans-serif;
     margin: 20px;
-    background-color: cadetblue;
+    background-color: #f75990;
 }
 
 ol,ul {
@@ -20,8 +20,8 @@ ol,ul {
   }
   
   .square {
-    background: #fff;
-    border: 1px solid #999;
+    background:#fff685;
+    border: 1px solid, #0049b7;
     float: left;
     font-size: 24px;
     font-weight: bold;
